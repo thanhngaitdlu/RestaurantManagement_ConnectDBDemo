@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA477B7-1529-482F-BE3B-B89D977299B6}|RestaurantManagement_Demo\\RestaurantManagement_Demo.csproj|D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\restaurantmanagement_demo\\fooddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA477B7-1529-482F-BE3B-B89D977299B6}|RestaurantManagement_Demo\\RestaurantManagement_Demo.csproj|solutionrelative:restaurantmanagement_demo\\fooddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA477B7-1529-482F-BE3B-B89D977299B6}|RestaurantManagement_Demo\\RestaurantManagement_Demo.csproj|D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\restaurantmanagement_demo\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA477B7-1529-482F-BE3B-B89D977299B6}|RestaurantManagement_Demo\\RestaurantManagement_Demo.csproj|solutionrelative:restaurantmanagement_demo\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA477B7-1529-482F-BE3B-B89D977299B6}|RestaurantManagement_Demo\\RestaurantManagement_Demo.csproj|d:\\nga-phan\\project\\databaseprogramming\\restaurantmanagement_demo_3\\restaurantmanagement_demo\\restaurantmanagement_demo\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA477B7-1529-482F-BE3B-B89D977299B6}|RestaurantManagement_Demo\\RestaurantManagement_Demo.csproj|solutionrelative:restaurantmanagement_demo\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA477B7-1529-482F-BE3B-B89D977299B6}|RestaurantManagement_Demo\\RestaurantManagement_Demo.csproj|D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\restaurantmanagement_demo\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA477B7-1529-482F-BE3B-B89D977299B6}|RestaurantManagement_Demo\\RestaurantManagement_Demo.csproj|solutionrelative:restaurantmanagement_demo\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA477B7-1529-482F-BE3B-B89D977299B6}|RestaurantManagement_Demo\\RestaurantManagement_Demo.csproj|d:\\nga-phan\\project\\databaseprogramming\\restaurantmanagement_demo_3\\restaurantmanagement_demo\\restaurantmanagement_demo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA477B7-1529-482F-BE3B-B89D977299B6}|RestaurantManagement_Demo\\RestaurantManagement_Demo.csproj|solutionrelative:restaurantmanagement_demo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA477B7-1529-482F-BE3B-B89D977299B6}|RestaurantManagement_Demo\\RestaurantManagement_Demo.csproj|D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\restaurantmanagement_demo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BA477B7-1529-482F-BE3B-B89D977299B6}|RestaurantManagement_Demo\\RestaurantManagement_Demo.csproj|solutionrelative:restaurantmanagement_demo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA477B7-1529-482F-BE3B-B89D977299B6}|RestaurantManagement_Demo\\RestaurantManagement_Demo.csproj|D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\restaurantmanagement_demo\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA477B7-1529-482F-BE3B-B89D977299B6}|RestaurantManagement_Demo\\RestaurantManagement_Demo.csproj|solutionrelative:restaurantmanagement_demo\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\RestaurantManagement_Demo\\ConMeo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestaurantManagement_Demo\\ConMeo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\RestaurantManagement_Demo\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement_Demo\\CategoryDAO.cs",
+              "ToolTip": "D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\RestaurantManagement_Demo\\CategoryDAO.cs",
+              "RelativeToolTip": "RestaurantManagement_Demo\\CategoryDAO.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wBsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:04:08.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\RestaurantManagement_Demo\\MainForm.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement_Demo\\MainForm.cs",
+              "ToolTip": "D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\RestaurantManagement_Demo\\MainForm.cs",
+              "RelativeToolTip": "RestaurantManagement_Demo\\MainForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-21T07:01:49.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\RestaurantManagement_Demo\\MainForm.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement_Demo\\MainForm.cs",
+              "ToolTip": "D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\RestaurantManagement_Demo\\MainForm.cs [Design]",
+              "RelativeToolTip": "RestaurantManagement_Demo\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-21T07:01:43.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConMeo.cs",
+              "DocumentMoniker": "D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\RestaurantManagement_Demo\\ConMeo.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement_Demo\\ConMeo.cs",
+              "ToolTip": "D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\RestaurantManagement_Demo\\ConMeo.cs",
+              "RelativeToolTip": "RestaurantManagement_Demo\\ConMeo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:48:14.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BillDAO.cs",
+              "DocumentMoniker": "D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\RestaurantManagement_Demo\\BillDAO.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement_Demo\\BillDAO.cs",
+              "ToolTip": "D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\RestaurantManagement_Demo\\BillDAO.cs",
+              "RelativeToolTip": "RestaurantManagement_Demo\\BillDAO.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-21T06:51:29.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\RestaurantManagement_Demo\\DataProvider.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement_Demo\\DataProvider.cs",
+              "ToolTip": "D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\RestaurantManagement_Demo\\DataProvider.cs",
+              "RelativeToolTip": "RestaurantManagement_Demo\\DataProvider.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowD8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-21T06:47:10.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodDAO.cs",
+              "DocumentMoniker": "D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\RestaurantManagement_Demo\\FoodDAO.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement_Demo\\FoodDAO.cs",
+              "ToolTip": "D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\RestaurantManagement_Demo\\FoodDAO.cs",
+              "RelativeToolTip": "RestaurantManagement_Demo\\FoodDAO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-21T06:44:06.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\RestaurantManagement_Demo\\Food.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement_Demo\\Food.cs",
+              "ToolTip": "D:\\Nga-Phan\\Project\\DatabaseProgramming\\RestaurantManagement_Demo_3\\RestaurantManagement_Demo\\RestaurantManagement_Demo\\Food.cs",
+              "RelativeToolTip": "RestaurantManagement_Demo\\Food.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-21T06:43:05.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 69,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
